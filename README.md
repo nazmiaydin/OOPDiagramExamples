@@ -84,6 +84,8 @@ Eğer film mevcut değil ise talep edilebilir.
 
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
+![image](https://user-images.githubusercontent.com/7016746/158056851-c7e35de8-8124-475e-a175-57656742befa.png)
+
 
 # Asansör Simülasyonu
 
