@@ -65,6 +65,8 @@ Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.
 
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
+![image](https://user-images.githubusercontent.com/7016746/158056442-476b83fe-aff0-483d-b7e1-8fed5f830d33.png)
+
 
 # Online Film Sistemi
 
